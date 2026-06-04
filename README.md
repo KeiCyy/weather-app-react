@@ -22,8 +22,13 @@ Aplicación de clima desarrollada con React que consume la API de OpenWeather.
 - CSS
 - OpenWeather API
 
+## Variables de entorno
+
+- Crear archivo .env 
+
 ## Instalación
 
 ```bash
 npm install
 npm run dev
+
